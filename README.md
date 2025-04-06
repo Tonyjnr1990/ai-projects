@@ -1,1 +1,1 @@
-# ai-projects
+# ai-data_science-projects
